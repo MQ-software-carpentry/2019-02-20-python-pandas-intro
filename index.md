@@ -277,6 +277,12 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <h2 id="setup">Setup</h2>
 
+None! That's right, none! Woohoo!  
+
+We will be using Jupyter Notebooks run entirely from a cloud-based server thanks to the fine folks at <a href="https://mybinder.org/">mybinder</a>. 
+
+We'll go over the details of what this all means at the beginning of the class. A link to the notebooks we will be using will appear within a few days of the class.
+
 {% comment %}
 <p>
   To participate in a
