@@ -196,7 +196,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endif %}
 {% endcomment %}
 
-[Click Here to Run Interactively](https://mybinder.org/v2/gh/MQ-software-carpentry/2019-02-20-python-pandas-intro/notebooks?filepath=data/UsingJupyterNotebooks.ipynb&urlpath=lab)
+[Click Here to Run Interactively](https://mybinder.org/v2/gh/MQ-software-carpentry/2019-02-20-python-pandas-intro/notebooks?filepath=notebooks/UsingJupyterNotebooks.ipynb&urlpath=lab)
 
 <hr/>
 
