@@ -1,5 +1,7 @@
-seaborn
-matplotlib
-PyYAML
-pandas
 jupyter
+jupyterlab
+matplotlib
+pandas
+PyYAML
+seaborn
+
