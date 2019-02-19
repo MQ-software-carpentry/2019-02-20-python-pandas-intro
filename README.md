@@ -8,7 +8,7 @@ This class will make use of the online service [mybinder.org](mybinder.org) to r
 > ![Python Stack](https://pangeo-data.github.io/img/scientific-python-28-638.jpg)
 > Image by Jake VanderPlas
 
-### [Click Here to Run Interactively](https://mybinder.org/v2/gh/MQ-software-carpentry/2019-02-20-python-pandas-intro/notebooks?filepath=UsingJupyterNotebooks.ipynb&urlpath=lab)
+### [Click Here to Run Interactively](https://mybinder.org/v2/gh/MQ-software-carpentry/2019-02-20-python-pandas-intro/notebooks?filepath=notebooks/UsingJupyterNotebooks.ipynb&urlpath=lab)
 
 ### Table of Contents:
 
