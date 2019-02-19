@@ -1,6 +1,7 @@
 jupyter
 jupyterlab
 matplotlib
+names
 pandas
 PyYAML
 seaborn
