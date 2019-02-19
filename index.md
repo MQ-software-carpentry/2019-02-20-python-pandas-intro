@@ -283,6 +283,9 @@ We will be using Jupyter Notebooks run entirely from a cloud-based server thanks
 
 We'll go over the details of what this all means at the beginning of the class. A link to the notebooks we will be using will appear within a few days of the class.
 
+[Click Here to Run Interactively](https://mybinder.org/v2/gh/MQ-software-carpentry/2019-02-20-python-pandas-intro/notebooks?filepath=data/UsingJupyterNotebooks.ipynb&urlpath=lab)
+
+
 {% comment %}
 <p>
   To participate in a
