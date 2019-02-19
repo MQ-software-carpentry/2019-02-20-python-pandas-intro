@@ -9,5 +9,13 @@ This class will make use of the online service [mybinder.org](mybinder.org) to r
 
 ### Table of Contents:
 
-1. [Using Jupyter Notebooks](UsingJupyterNotebooks.ipynb)
-2. [00 Check-in](00-Checkin.ipynb) ([solutions](00-Checkin-Solutions.ipynb))
+1. [Using Jupyter Notebooks](data/UsingJupyterNotebooks.ipynb)
+2. [00 Check-in](data/00-Checkin.ipynb) ([solutions](data/00-Checkin-Solutions.ipynb))
+3. [Motivating Example](data/MotivatingExample.ipynb)
+4. [Programming Style](data/ProgrammingStyle.ipynb)
+5. [01 Check-in](data/01-Checkin.ipynb) ([solutions](data/01-Checkin-Solutions.ipynb))
+6. [Reading Tabular Data](data/ReadingTabularData.ipynb)
+7. [DataFrames](data/DataFrames.ipynb)
+8. [Plotting](data/Plotting.ipynb)
+9. [Looping Over Data Sets](data/LoopingDatasets)
+10. [02 Check-in](data/02-Checkin.ipynb) ([solutions](data/02-Checkin-Solutions.ipynb))
