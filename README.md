@@ -19,3 +19,6 @@ This class will make use of the online service [mybinder.org](mybinder.org) to r
 8. [Plotting](data/Plotting.ipynb)
 9. [Looping Over Data Sets](data/LoopingDatasets)
 10. [02 Check-in](data/02-Checkin.ipynb) ([solutions](data/02-Checkin-Solutions.ipynb))
+11. [Timeseires](data/Timeseries.ipynb)
+10. [03 Check-in](data/03-Checkin.ipynb) ([solutions](data/03-Checkin-Solutions.ipynb))
+12. [Installing Notebook](data/InstallingNotebook.ipynb)
