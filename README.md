@@ -10,3 +10,4 @@ This class will make use of the online service [mybinder.org](mybinder.org) to r
 ### Table of Contents:
 
 1. [Using Jupyter Notebooks](UsingJupyterNotebooks.ipynb)
+2. [00 Checkpoint](00-Checkpoint.ipynb) ([solutions](00-Checkpoint-Solutions.ipynb))
